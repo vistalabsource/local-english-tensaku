@@ -1,0 +1,9 @@
+# ビルド関連
+tensaku.build/
+tensaku.dist/
+
+# 仮想環境
+.venv/
+
+# その他
+__pycache__/
